@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @WinterFrost11
-- 👀 I’m interested in nothing,
-- 🌱 I’m currently learning nothing,
-- 💞️ I’m looking to collaborate on nothing,
-- 📫 How to reach me nothing,
-- 😄 Pronouns: nothing,
-- ⚡ Fun fact: nothing!
+- 👋 Hi, I’m @WinterFrost11!
+- 👀 I’m interested on scratch,
+- 🌱 I’m currently learning about scratch,
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: i'm a girl that always look at scratch!
 
 <!---
 WinterFrost11/WinterFrost11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
